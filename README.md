@@ -1,10 +1,21 @@
 # Netflix GPT
 
--Create React App
--Configure Tailwind Css
--Header
--Login FORM
--SignUp FORM
+- Create React App
+- Configure Tailwind Css
+- Header
+- Login FORM
+- SignUp FORM
+- Form Validation
+- useref hook
+- Firebase Setup
+- Deploying our app to production
+- Create SignUp User Account
+- Implement Sign In User Api
+- Created Redux Store with userSlice
+- -Implement Sign Out
+- Update Profile
+- BugFix: Sign up user displayName and profile picture update
+- -BugFix : if the user is not logged in Redirect /browse to Login Page and vice-versa
 
 #Features
 
